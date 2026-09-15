@@ -2,3 +2,6 @@ AGENTS.MD
 datas/
 /newcode/artifacts/
 /newcode/models/
+/newcode/scenarios/*/artifacts/
+/newcode/scenarios/*/models/
+/notes/
